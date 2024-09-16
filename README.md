@@ -1,5 +1,6 @@
 # V0
 `variants: [Dark, Light]`
+
 A port of the theme used in [v0 chat](https://v0.dev/chat/) for zed.
 
 ## Preview
