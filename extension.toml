@@ -1,0 +1,7 @@
+id = "v0-theme"
+name = "v0 theme"
+version = "0.5.0"
+schema_version = 1
+authors = ["blaqat <blaqat.ag@gmail.com>"]
+description = "Theme used in v0 chat ported for zed"
+repository = "https://github.com/biaqat/v0-theme-zed"
