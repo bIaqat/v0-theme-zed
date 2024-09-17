@@ -417,7 +417,12 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#F472B6",
+            "color": "#FBBF24",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#FBBF24",
             "font_style": null,
             "font_weight": null
           },
@@ -888,10 +893,15 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#BE185D",
+            "color": "#B45309",
             "font_style": null,
             "font_weight": null
           },
+          "variable.builtin": {
+			"color": "#B45309",
+			"font_style": null,
+			"font_weight": null
+		  },
           "variant": {
             "color": "#1D4ED8",
             "font_style": null,
